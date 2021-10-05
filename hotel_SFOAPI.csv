@@ -1,0 +1,148 @@
+ID,Name,Two Nights Cost USD,Location,Area,Rating,Reviews,Free_Cancellation,Free_Valet_Parking,Free_Breakfast,Free_WiFi,Fitness_Centre,Swimming_pool,Health_club,Bar,lon,lat
+1,"Fairmont Heritage Place, Ghirardelli Square",2063.44,Fishermans Wharf San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4227434,37.8056229
+2,Le Meridien San Francisco,1680.98,Financial District - Ferry Building San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4007267,37.7947045
+3,The St. Regis San Francisco,1223.21,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4014681,37.7861299
+4,Loews Regency San Francisco,1176.4,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4007857,37.7924577
+5,Four Seasons Hotel San Francisco,1106.3,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4044789,37.7866307
+6,Hotel Drisco,1101.39,San Francisco (Pacific Heights) San Francisco,San Francisco,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4432,37.79204
+7,"The Ritz-Carlton, San Francisco",953.32,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4072756,37.7916201
+8,Hyatt Centric Fisherman's Wharf San Francisco,899.07,Ghirardelli Square San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4161179,37.8059283
+9,San Francisco Proper Hotel,793.94,Orpheum Theater San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4124106,37.780966
+10,Fairmont San Francisco,782.12,Nob Hill San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4104443,37.7923897
+11,Sonder  Hayes Valley,701.82,San Francisco City Hall San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4228267,37.7746245
+12,Harbor Court Hotel,698.84,Financial District - Ferry Building San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.3921793,37.7925886
+13,Mansion on Sutter,650.78,San Francisco City Hall San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4238528,37.7870775
+14,"Palace Hotel, a Luxury Collection Hotel, San Francisco",646.96,San Francisco Museum of Modern Art San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4019021,37.7881241
+15,Taj Campton Place,640.76,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4066335,37.7893052
+16,Palihotel San Francisco,639.76,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4074224,37.7898098
+17,"Laurel Inn, a Joie de Vivre Boutique Hotel",638.76,Kaiser Permanente Medical Center San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4466154,37.7875944
+18,Argonaut Hotel - a Noble House Hotel,638.76,Pier 39 San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4204674,37.8074681
+19,The Park Central San Francisco,630.56,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4030966,37.7865872
+20,Hyatt Regency San Francisco,598.71,Financial District - Ferry Building San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.3956663,37.7942169
+21,JW Marriott San Francisco Union Square,588.69,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4104901,37.7883189
+22,Monte Cristo Inn,561.51,Kaiser Permanente Medical Center San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4464324,37.7861121
+23,The Phoenix Hotel,559.24,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4181435,37.783058
+24,Hotel VIA,556.84,South San Francisco San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.3909444,37.7793223
+25,Hilton San Francisco Financial District,551.64,Exploratorium San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4040729,37.7952284
+26,Hotel Nikko San Francisco,539.64,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4093066,37.7860399
+27,Hotel Kabuki - a Joie de Vivre Boutique Hotel,538.64,Fillmore Auditorium San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4287405,37.7854795
+28,San Francisco Marriott Union Square,538.64,San Francisco Museum of Modern Art San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4083129,37.7894649
+29,Parc 55 San Francisco - A Hilton Hotel,536.32,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4090609,37.7848243
+30,Hilton San Francisco Union Square,536.32,Union Square Area San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4106963,37.786005
+31,"Hotel Adagio, Autograph Collection",526.62,Orpheum Theater San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4125239,37.7870583
+32,Hotel Zetta San Francisco,520.61,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4068652,37.7835369
+33,Omni San Francisco Hotel,518.64,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.40313,37.79296
+34,Grand Hyatt at SFO,518.62,San Francisco Airport San Francisco,San Francisco,5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.3938993,37.612801
+35,Jackson Court,518.62,Van Ness Avenue San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4311383,37.79328509
+36,Courtyard San Francisco Fisherman's Wharf,518.61,Ghirardelli Square San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4182555,37.8070536
+37,Marriott San Francisco Fisherman's Wharf,508.79,Ghirardelli Square San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4175288,37.8055409
+38,Columbus Motor Inn,505.49,Lombard Street San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.415756,37.803992
+39,W San Francisco,504.6,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4002069,37.7854161
+40,La Luna Inn,502.79,Palace of Fine Arts San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.443891,37.7985311
+41,Holiday Inn Express and Suites Fisherman's Wharf,502.18,Lombard Street San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4163994,37.8063575
+42,San Francisco Marriott Marquis,498.58,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4044068,37.7853366
+43,InterContinental Mark Hopkins,492.73,Nob Hill San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4103924,37.7915528
+44,"Marriott Vacation Club Pulse, San Francisco",488.58,Fishermans Wharf San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4167674,37.8054325
+45,Marina Inn,486.57,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4292567,37.80100608
+46,The Clift Royal Sonesta Hotel,485.68,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4112871,37.7867731
+47,Marriott Courtyard San Francisco Downtown,484.32,Moscone Convention Center San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,-122.396865,37.7859237
+48,Stanyan Park Hotel,483.37,Conservatory of Flowers San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4531289,37.7681367
+49,Yale Hotel,480.57,Union Square Area San Francisco,San Francisco,1.5,Poor,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4175579,37.78407096
+50,Hotel Zoe Fisherman's Wharf,478.56,Fishermans Wharf San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4141175,37.8063374
+51,Inn At The Opera,474.85,Civic Center San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4222545,37.7787601
+52,Grand Hyatt San Francisco Union Square,466.76,San Francisco Museum of Modern Art San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4072161,37.7891412
+53,Hotel Zelos San Francisco,460.54,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4059514,37.7854518
+54,Stanford Court San Francisco,441.52,Nob Hill San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4096137,37.7917912
+55,InterContinental San Francisco,440.7,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4047337,37.781973
+56,White Swan Inn,439.72,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4111734,37.78974467
+57,Hotel Bijou,435.66,Union Square Area San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4095759,37.7845106
+58,Axiom Hotel San Francisco,430.72,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4081828,37.7848941
+59,Executive Hotel Vintage Court,430.71,Union Square Area San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4080831,37.7903751
+60,Courtyard by Marriott San Francisco Downtown/Van Ness Ave.,429.51,San Francisco City Hall San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4208442,37.7855464
+61,Holiday Inn San Francisco-Fisherman's Wharf,417.73,Ghirardelli Square San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4163994,37.8063575
+62,The Marker San Francisco,414.48,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4119065,37.7866571
+63,Hotel Spero,414.48,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.411684,37.7861496
+64,Hotel Emblem San Francisco,411.77,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4098188,37.7891757
+65,BEI Hotel San Francisco,410.05,Civic Center San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4139057,37.7778687
+66,Hotel Caza Fishermans Wharf,407.69,Pier 39 San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.418013,37.806587
+67,The Donatello,406.8,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4104163,37.7878653
+68,"Staypineapple, An Elegant Hotel, Union Square",403.39,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4129982,37.7869422
+69,Hyatt Place San Francisco Downtown,394.66,Oracle Park San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.3923413,37.7787156
+70,The Grove Inn,393.77,Painted Ladies San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4312288,37.7769344
+71,Hotel Zeppelin San Francisco,391.96,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4107556,37.7878278
+72,"Hotel Del Sol, a Joie de Vivre Boutique Hotel",388.46,Union Street San Francisco,San Francisco,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4341135,37.7994118
+73,The Cartwright Hotel - Union Square BW Premier Collection,381.16,San Francisco Museum of Modern Art San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4092132,37.7894522
+74,Club Wyndham Canterbury,377.86,SHN Curran Theatre San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4127618,37.7888347
+75,YOTEL San Francisco,373.94,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4119145,37.7801747
+76,Holiday Inn Express San Francisco Union Square,372.73,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4086967,37.7862492
+77,Comfort Inn by the Bay,368.44,Fishermans Wharf San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.424905,37.800934
+78,Hotel Zephyr San Francisco,366.84,Pier 39 San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4138552,37.8076666
+79,Hotel des Arts,361.23,Union Square Area San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4049487,37.790505
+80,Holiday Inn Golden Gateway,359.47,Civic Center San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4219471,37.7898079
+81,Hotel Triton,358.81,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4053992,37.7903361
+82,SeaScape Inn - A FairBridge Hotel,356.82,Ocean Beach San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.5087967,37.7604484
+83,Inn San Francisco,351.42,Mission Dolores Park San Francisco,San Francisco,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4165306,37.7580944
+84,Hotel Majestic,351.4,Cultural District - Japantown San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.425517,37.7872514
+85,Wharf Inn,343.91,Fishermans Wharf San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4142291,37.8077557
+86,King George Hotel - A Greystone Hotel,342.83,San Francisco Museum of Modern Art San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4092908,37.7867767
+87,Warwick San Francisco,341.5,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4113976,37.7871218
+88,Hotel Riu Plaza Fisherman's Wharf,340.62,Fishermans Wharf San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4134809,37.8074145
+89,City Center Inn & Suites,340.59,Civic Center San Francisco,San Francisco,2,Poor,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4087195,37.7772775
+90,Inn At Union Square - A Greystone Hotel,340.59,San Francisco Museum of Modern Art San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4091187,37.7884871
+91,"Hotels Hotel Petaluma, Ascend Hotel Collection",315.62,Fishermans Wharf San Francisco,San Francisco,4,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.6423991,38.2354718
+92,Orchard Garden Hotel,334.47,Union Square Area San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4052176,37.7907295
+93,Orchard Hotel,334.47,San Francisco Museum of Modern Art San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.408485,37.790106
+94,Kensington Park Hotel,333.39,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4093944,37.7883439
+95,Queen Anne Hotel,331.6,Cultural District - Japantown San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4265958,37.7872013
+96,Van Ness Inn,325.34,Ghirardelli Square San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4244612,37.8021816
+97,Hotel 964,324.4,Moscone Convention Center San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4065528,37.7805198
+98,Handlery Union Square Hotel,321.67,Union Square Area San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.408923,37.7871789
+99,Days Inn by Wyndham San Francisco - Lombard,320.38,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4404868,37.7997462
+100,Hampton Inn San Francisco Downtown/Convention Center,318.98,Moscone Convention Center San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4077971,37.7821855
+101,Chelsea Inn,318.37,Fort Mason San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4234879,37.79597865
+102,San Francisco Inn,317.37,Civic Center San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4102023,37.7729354
+103,Villa Florence San Francisco on Union Square,306.96,San Francisco Museum of Modern Art San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4084456,37.7866669
+104,Hotel G San Francisco,306.37,San Francisco Museum of Modern Art San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4095379,37.787307
+105,Nob Hill Motor Inn,306.35,Fishermans Wharf San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4222336,37.7951241
+106,Francisco Bay Inn,291.34,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4266825,37.8008969
+107,Inn on Broadway,291.34,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4355898,37.79993555
+108,Travelodge by Wyndham San Francisco Bay,288.47,Fishermans Wharf San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4255462,37.8013521
+109,Ram's Hotel,288.33,Orpheum Theater San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4151346,37.7762844
+110,Hotel 32One,287.63,San Francisco Museum of Modern Art San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4057116,37.7899759
+111,Pacific Heights Inn By Magnuson Worldwide,286.74,Lombard Street San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.424989,37.798248
+112,The Pickwick Hotel,286.54,Civic Center San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.406659,37.783115
+113,Hayes Valley Inn,278.62,San Francisco City Hall San Francisco,San Francisco,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4231924,37.7771258
+114,Travelodge by Wyndham by Fisherman's Wharf,278.33,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4177385,37.8053643
+115,Geary Parkway Motel,275.83,San Francisco (Richmond District) San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4703469,37.7811178
+116,Cow Hollow Inn & Suites,269.41,San Francisco (Marina District) San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4374291,37.7998849
+117,Embassy Hotel,268.51,Union Square Area San Francisco,San Francisco,2.5,Average,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4194665,37.78450062
+118,SOMA Park Inn  Civic Center,268.51,Orpheum Theater San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4143867,37.7761695
+119,Alexis Park Hotel,268.51,San Francisco City Hall San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.5091779,37.73720247
+120,Club Quarters Hotel in San Francisco,257.19,Financial District - Ferry Building San Francisco,San Francisco,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4006767,37.7952311
+121,Edwardian Hotel,256.6,San Francisco City Hall San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4217821,37.7735108
+122,Travelodge by Wyndham Presidio San Francisco,254.08,Fishermans Wharf San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4468301,37.7982841
+123,Inn at Golden Gate,250.87,Palace of Fine Arts San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4462823,37.7984924
+124,Signature San Francisco,250.49,Civic Center San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4082781,37.77735
+125,The Utah Inn,250.49,Moscone Convention Center San Francisco,San Francisco,1.5,Poor,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.3980238,37.7793564
+126,Grant Plaza Hotel,245.68,Union Square Area San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4058232,37.7913834
+127,Howard Johnson by Wyndham San Francisco Marina District,244.94,Fort Mason San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4334883,37.8005121
+128,Calista Organic Hotel,239.69,Nob Hill San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4215935,37.7884146
+129,Super 8 by Wyndham San Francisco/Near the Marina,237.88,Fishermans Wharf San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4417032,37.7993159
+130,Union Square Plaza Hotel,234.38,Union Square Area San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4104256,37.7873072
+131,Music City Hotel - Home of the San Francisco Music Hall of Fame,222.02,The Regency Ballroom San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4195169,37.7885599
+132,Rodeway Inn and Suites,219.23,San Francisco (Sunset District) San Francisco,San Francisco,3,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.5691779,37.76320247
+133,Beach Motel,213.99,Ocean Beach San Francisco,San Francisco,2,Poor,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.5074124,37.7601773
+134,The Mosser,199.73,Convention Center San Francisco,San Francisco,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4049743,37.7848928
+135,Presidio Parkway Inn,184.22,Palace of Fine Arts San Francisco,San Francisco,2,Poor,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4403762,37.7990175
+136,Alpha Inn & Suites,180.2,Palace of Fine Arts San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4428473,37.7987485
+137,El Capitan Hotel,178.42,Private Homes and Apartments San Francisco,San Francisco,2,Poor,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.418881,37.75948032
+138,Inn on Folsom,178.42,Orpheum Theater San Francisco,San Francisco,2.5,Average,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4099115,37.7753344
+139,Rodeway Inn Civic Center,173.19,Civic Center San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4219606,37.7829163
+140,Aida Plaza Hotel,172.18,Civic Center San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.41191,37.780433
+141,Perramont Hotel,160.19,Castro Street San Francisco,San Francisco,2,Poor,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4302557,37.7667521
+142,Admiral Hotel,150.16,Orpheum Theater San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4143722,37.78590145
+143,Hotel Ikon,146.14,San Francisco Museum of Modern Art San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4058785,37.7893162
+144,Mithila Hotel,139.29,Nob Hill San Francisco,San Francisco,2.5,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4163959,37.7883992
+145,The Urban,120.13,San Francisco Museum of Modern Art San Francisco,San Francisco,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4057071,37.79043463
+146,Bay Hotel,116.28,Orpheum Theater San Francisco,San Francisco,1.5,Poor,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-122.4120747,37.7825175
+147,Hotel Sunrise,111.75,Mission Dolores Park San Francisco,San Francisco,2,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-122.4216424,37.76611089

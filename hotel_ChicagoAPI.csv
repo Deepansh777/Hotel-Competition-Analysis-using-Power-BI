@@ -1,0 +1,150 @@
+ID,Name,Two Nights Cost USD,Location,Area,Rating,Reviews,Free_Cancellation,Free_Valet_Parking,Free_Breakfast,Free_WiFi,Fitness_Centre,Swimming_pool,Health_club,Bar,lon,lat
+1,"The Langham, Chicago",1451.72,Downtown Chicago,Chicago,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6273364,41.8884634
+2,Waldorf Astoria Chicago,1175.46,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6272644,41.8998453
+3,The Peninsula Chicago,1101.31,Downtown Chicago,Chicago,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62509674,41.89610651
+4,Four Seasons Hotel Chicago,951.13,Downtown Chicago,Chicago,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6251395,41.8993748
+5,"The Ritz-Carlton, Chicago",899.07,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.622398,41.8977726
+6,The Guesthouse Hotel,899.07,Chicago (Uptown) Chicago,Chicago,5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6680244,41.9708142
+7,Hyatt House Chicago Medical/University District,818.96,United Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6729442,41.8737831
+8,Hyatt Place Chicago Medical/University District,798.95,United Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6729442,41.8737831
+9,Thompson Chicago,778.91,900 North Michigan Shops Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6274861,41.9013417
+10,Park Hyatt - Chicago,750.88,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,-87.6255019,41.8971181
+11,Hyatt Regency McCormick Place,738.88,Museum Campus Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6177894,41.8521395
+12,Hyatt Centric The Loop Chicago,738.88,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6310932,41.8809159
+13,Viceroy Chicago,722.99,Gold Coast Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6287055,41.9024809
+14,Ace Hotel Chicago,710.03,Chicago (Near West Side) Chicago,Chicago,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6520361,41.8876139
+15,"Hotel Zachary Chicago, a Tribute Portfolio Hotel",698.83,Wrigley Field Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6572172,41.9478843
+16,"Hotel EMC2, Autograph Collection",658.77,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6215717,41.8935718
+17,Hilton Chicago,628.75,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6246966,41.8725089
+18,"The Blackstone, Autograph Collection",626.33,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6247443,41.8732819
+19,Kimpton Hotel Palomar Chicago,625.38,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6272784,41.8911337
+20,Virgin Hotels Chicago,621.08,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6260006,41.886059
+21,"The Gwen, a Luxury Collection Hotel, Michigan Avenue Chicago",618.73,Chicago Riverwalk Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6252649,41.8911003
+22,Chicago Athletic Association,618.72,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,-87.6247177,41.8816642
+23,JW Marriott Chicago,608.73,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6328322,41.8793371
+24,The Hoxton Chicago,601.92,Civic Opera House Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.64877012,41.88625662
+25,Sophy Hyde Park,593.8,Museum Campus Chicago,Chicago,5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.5913111,41.7992928
+26,St. Jane Chicago,590.69,Suburb Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7731558,41.7976765
+27,W Chicago - City Center,558.65,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6332144,41.8795207
+28,The Tremont Chicago Hotel at Magnificent Mile,540.63,Water Tower Place Chicago,Chicago,3.5,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6256013,41.8984939
+29,Residence Inn Marriott Chicago Midway,539.64,the business district Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7462111,41.7713717
+30,W Chicago - Lakeshore,528.63,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6153104,41.8936517
+31,Hyatt Place Chicago/Wicker Park,518.62,Chicago (West Town) Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6672841,41.9103888
+32,Hotel Lincoln,518.62,Lincoln Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6343888,41.9152875
+33,Residence Inn Chicago Downtown/Loop,518.61,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6321003,41.8815897
+34,Renaissance Chicago Downtown Hotel,508.59,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6283129,41.8862002
+35,DoubleTree by Hilton Chicago Midway Airport,507.59,Chicago Midway Airport Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7452617,41.7721746
+36,Omni Chicago Suites - Magnificent Mile,498.61,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6248791,41.8947765
+37,Marriott Marquis Chicago,498.58,Museum Campus Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6205363,41.8540186
+38,Kimpton Hotel Monaco Chicago,485.83,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.626017,41.88642
+39,"The Ambassador Chicago, a Joie de Vivre Hotel",478.98,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6284696,41.9060542
+40,Hyatt House Chicago West Loop,478.57,UIC Pavilion Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6552641,41.8833088
+41,Best Western Plus Hawthorne Terrace Hotel,478.57,Lincoln Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.645938,41.944129
+42,Chicago South Loop Hotel,477.65,Museum Campus Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.62775613,41.84547122
+43,Hyatt Regency Chicago,474.85,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,-87.6218948,41.8875503
+44,Holiday Inn & Suites Chicago - Downtown,469.86,Willis Tower Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.63993665,41.87477371
+45,Pittsfield Apartments + Suites,466.66,Millennium Park Chicago,Chicago,3,,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6256629,41.8830034
+46,Chicago Marriott Downtown Magnificent Mile,465.56,Chicago Riverwalk Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6245096,41.8921331
+47,Sheraton Grand Chicago,458.54,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6193955,41.8891309
+48,Royal Sonesta Chicago Riverfront,457.73,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6256673,41.8872366
+49,Kimpton Gray Hotel,456.53,Grant Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.631813,41.8807674
+50,Hilton Grand Vacations Chicago Downtown Magnificent Mile,449.82,Water Tower Place Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6199219,41.8928046
+51,Sonder - Essex on the Park,449.64,Grant Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6247987,41.87184279
+52,Sofitel Chicago Magnificent Mile,443.41,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6273142,41.8985575
+53,The Westin Michigan Avenue Chicago,438.53,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6234555,41.8994023
+54,Courtyard by Marriott Chicago Downtown River North,438.52,House of Blues Chicago Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6275928,41.8902076
+55,Kasa Chicago River North Apartments,429.8,Water Tower Place Chicago,Chicago,NA,,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6289296,41.8954527
+56,Homewood Suites by Hilton Chicago Downtown/Magnificent Mile,428.51,Water Tower Place Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.623072,41.8951737
+57,Aloft Chicago Mag Mile,428.51,Water Tower Place Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6211095,41.8932658
+58,Loews Chicago Hotel,421.69,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6190605,41.8901829
+59,Crowne Plaza Chicago West Loop,419.69,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6469826,41.880866
+60,Hyatt Centric Chicago Magnificent Mile,418.5,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6223754,41.8938374
+61,Courtyard by Marriott Chicago Magnificent Mile,418.49,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6229367,41.8932283
+62,Ruby Room,418.49,Chicago (Wicker Park) Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6715925,41.9031165
+63,"LondonHouse Chicago, Curio Collection by Hilton",411.54,Grant Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6254261,41.8878318
+64,The Godfrey Hotel Chicago,408.98,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6321868,41.8946533
+65,Raffaello Hotel,406.88,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6216983,41.8990836
+66,Palmer House a Hilton Hotel,405.48,Art Institute of Chicago Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6267388,41.8803066
+67,Hotel Julian,403.32,Chicago Theatre Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6248617,41.885158
+68,"Staypineapple, An Iconic Hotel, The Loop",402.59,Chicago Theatre Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6282472,41.8830146
+69,Homewood Suites by Hilton Chicago Downtown,402.48,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62641,41.8918453
+70,Residence Inn by Marriott Chicago Downtown / River North,398.48,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6299143,41.8895711
+71,Hotel Essex Chicago,398.46,Grant Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6245789,41.8715546
+72,Hyatt Place Chicago/River North,398.46,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6306878,41.8909847
+73,Hyatt Place Chicago-South/University Medical Center,398.46,Chicago (Hyde Park) Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,-87.588633,41.8001553
+74,Chicago Marriott at Medical District/UIC,398.46,UIC Pavilion Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6659938,41.8738158
+75,Radisson Blu Aqua Hotel Chicago,394.98,Chicago Riverwalk Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6201552,41.88658
+76,Kimpton Hotel Allegro,394.67,Loop Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6334807,41.8843129
+77,InterContinental Chicago Magnificent Mile,389.75,Chicago Riverwalk Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6238708,41.8911399
+78,Springhill Suites by Marriott Chicago Downtown/ River North,388.46,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,-87.6298926,41.8897467
+79,Homewood Suites by Hilton Chicago Downtown South Loop,387.38,Grant Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6253047,41.8691712
+80,Hilton Chicago/Magnificent Mile Suites,384.46,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62195466,41.89992608
+81,"Hotel Blake, an Ascend Hotel Collection Member",381.24,Art Institute of Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6293849,41.8751051
+82,Swissotel - Chicago,381.09,Chicago Riverwalk Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6194888,41.8871746
+83,"Eurostars Magnificent Mile, previously Dana Hotel",378.45,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6283995,41.8942959
+84,Fairfield Inn & Suites Chicago Downtown/River North,378.45,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.63038597,41.89109113
+85,Home2 Suites by Hilton Chicago McCormick Place,378.45,McCormick Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6228243,41.8526911
+86,Moxy Chicago Downtown,377.09,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,-87.6331075,41.8918405
+87,La Quinta Inn & Suites by Wyndham Chicago Downtown,376.67,Willis Tower Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.63506668,41.88169016
+88,ACME Hotel Company,376.64,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6274881,41.8922189
+89,21c Museum Hotel Chicago - MGallery,374.98,Michigan Avenue Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6257708,41.8931328
+90,Hampton Inn Chicago McCormick Place,374.43,McCormick Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6225702,41.8525562
+91,Embassy Suites Chicago Downtown Magnificent Mile,371.44,Chicago Riverwalk Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6199634,41.8914042
+92,Fairfield Inn & Suites Chicago Downtown / Magnificent Mile,368.44,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62208965,41.89387858
+93,"Hotel Chicago Downtown, Autograph Collection",367.63,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6288741,41.8886169
+94,Hilton Garden Inn Chicago McCormick Place,366.19,McCormick Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6226846,41.8526965
+95,Warwick Allerton - Chicago,359.53,Water Tower Place Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6237527,41.8950952
+96,"The Drake, a Hilton Hotel",359.43,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6234858,41.9001198
+97,Marriott Chicago O'Hare,358.42,Chicago (O'Hare) Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.8411899,41.9855138
+98,Best Western River North Hotel,358.42,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6321299,41.8923145
+99,Silversmith Hotel Chicago Downtown,356.63,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6265028,41.8816472
+100,Embassy Suites Chicago Downtown,350.42,House of Blues Chicago Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6283194,41.8928714
+101,Jaslin Hotel,350.41,Chicago (Chinatown) Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6343694,41.8525831
+102,Residence Inn by Marriott Chicago Downtown Magnificent Mile,349.62,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6214537,41.8998616
+103,Aloft Chicago Downtown River North,348.42,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6307907,41.8915014
+104,Chicago Marriott Midway,347.22,Chicago Midway Airport Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7446148,41.7739918
+105,Fairfield Inn and Suites by Marriott Chicago Midway Airport,347.2,the business district Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.7436777,41.7722223
+106,Millennium Knickerbocker Chicago,344.57,John Hancock Center Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6226078,41.8998058
+107,DoubleTree by Hilton Chicago - Magnificent Mile,344.19,Chicago Riverwalk Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6198551,41.8928559
+108,Hampton Inn Chicago North Loyola Station,338.69,Loyola University Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6612049,42.0023762
+109,Hotel Versey Days Inn by Wyndham Chicago,338.4,Lincoln Park Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6455563,41.9329097
+110,Hyatt Place Chicago Midway Airport,338.4,the airport Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.746884,41.7724414
+111,Hotel 166,334.81,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6227287,41.8958412
+112,River Hotel,331.58,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6254114,41.8875941
+113,"Club Quarters Hotel, Wacker at Michigan",331.58,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6254702,41.8876651
+114,Hampton Inn by Hilton Chicago-Midway Airport,329.33,the airport Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7427761,41.7738734
+115,Hyatt Place Chicago/Downtown - The Loop,328.39,Willis Tower Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6356806,41.882755
+116,Hampton Inn Chicago Downtown/Magnificent Mile,327.39,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6230519,41.8951857
+117,Claridge House,322.58,Gold Coast Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.63045104,41.90551305
+118,Courtyard by Marriott Chicago Midway Airport,321.67,the airport Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7438641,41.7729821
+119,The St. Clair Hotel  Magnificent Mile,321.39,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6229277,41.8934887
+120,Hotel Chicago West Loop,319.38,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6677691,41.8777145
+121,Hilton Garden Inn Chicago Downtown South Loop,318.06,Loop Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6252045,41.8691733
+122,Renaissance Chicago O'Hare Suites Hotel,315.41,Chicago (O'Hare) Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.8408248,41.9834687
+123,Freehand Chicago,315.37,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,-87.6273243,41.8923757
+124,Hampton Inn Chicago Downtown/N Loop/Michigan Ave,310.4,Chicago Riverwalk Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6254055,41.8870173
+125,Hampton Inn & Suites Chicago Downtown,301.85,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.62922262,41.89097679
+126,Lxg Midway Airport,300.23,Chicago Midway Airport Chicago,Chicago,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,-87.7409553,41.7587638
+127,AC Hotels by Marriott Chicago Downtown,298.35,Water Tower Place Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6256145,41.8935825
+128,Ohio House Motel,295.55,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6328668,41.8927364
+129,SpringHill Suites Chicago O'Hare by Marriott,293.35,Donald E. Stephens Convention Center Chicago,Chicago,4.5,Excellent,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.83005,41.9851267
+130,Holiday Inn Express Hotel & Suites Chicago-Midway Airport,287.65,the airport Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62939595,41.89096082
+131,"Club Quarters Hotel, Central Loop",286.54,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.63127193,41.87942572
+132,Central Loop Hotel,286.54,Willis Tower Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.631162,41.8792487
+133,Hilton Garden Inn Chicago Downtown/Magnificent Mile,282.32,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.62757,41.8919352
+134,Holiday Inn O'Hare,279.26,Chicago (O'Hare) Chicago,Chicago,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.8356832,41.9820856
+135,Hilton Garden Inn Chicago Downtown Riverwalk,268.27,Chicago Riverwalk Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6254353,41.8869337
+136,Homewood Suites by Hilton Chicago Downtown West Loop,267.19,Willis Tower Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.643138,41.8838639
+137,The Whitehall Hotel,262.05,Downtown Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6257347,41.8990313
+138,Cambria Hotel Chicago Loop - Theatre District,259.51,Grant Park Chicago,Chicago,4,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6290509,41.8846972
+139,Congress Plaza Hotel,258.61,Grant Park Chicago,Chicago,3,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6246539,41.8751616
+140,Home2 Suites by Hilton Chicago River North,257.77,Downtown Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,-87.6315814,41.8950533
+141,Best Western Grant Park Hotel,249.58,Grant Park Chicago,Chicago,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6246813,41.8690914
+142,Found Hotel Chicago River North,241.5,House of Blues Chicago Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6338291,41.8928895
+143,Travelodge by Wyndham Downtown Chicago,232.49,Downtown Chicago,Chicago,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6253866,41.8742849
+144,Super 8 by Wyndham Chicago IL,220.24,Evanston Chicago,Chicago,3.5,Very Good,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.6646247,42.0141796
+145,Sleep Inn Midway Airport Bedford Park,218.5,the airport Chicago,Chicago,4,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.742617,41.771661
+146,Extended Stay America Chicago - Midway,207.23,Chicago Midway Airport Chicago,Chicago,3.5,Very Good,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.7457949,41.7573564
+147,Chicago Lake Shore Hotel,185.52,Chicago (Kenwood) Chicago,Chicago,3,Average,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,-87.5856334,41.805977
+148,Rodeway Inn Chicago-Evanston,172.2,North Chicago Chicago,Chicago,2.5,Average,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.7110429,41.9921203
+149,Chicago Getaway Hostel,134.47,Lincoln Park Chicago,Chicago,4.5,Excellent,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,-87.6445955,41.9268713
