@@ -10,3 +10,4 @@ Many people travel to different countries and different cities during the New Ye
 I used intuitive filters so that users can easily get all possible information for every hotel like  Cost, Rating, Reviews, etc. The dashboard also helps the user understand which areas have the most expensive hotels and which have the least expensive hotels. The interactive map provided will help the user to understand the different clusters formed by hotels based on cost and ratings. 
 
 
+![](Capture.jpg)
